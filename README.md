@@ -1,6 +1,6 @@
 ## actel and RSP workshop - hosted by ETN on January 18th, 2021
 
-Hi! Welcome to the data repository for our workshop. Please download the contents of this repository using the green "Code" button on the top right side of the file list.
+Hi! Welcome to the data repository for our workshop. Please download the contents of this repository using the green "Code" button on the top right side of the file list (select the "Download ZIP" option).
 
 In the downloaded folder, you will find data that will be used during our course, as well as a copy of the papers providing some background on actel and RSP. We highly recommend that you read them before the workshop!
 
