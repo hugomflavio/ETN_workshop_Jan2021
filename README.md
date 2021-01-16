@@ -14,9 +14,7 @@ install.packages("patchwork")
 install.packages("ggsn")
 install.packages("actel")
 install.packages("remotes")
-remotes::install_github("YuriNiella/RSP", 
-												build_opts = c("--no-resave-data", "--no-manual"),
-												build_vignettes = TRUE)
+remotes::install_github("YuriNiella/RSP", build_opts = c("--no-resave-data", "--no-manual"), build_vignettes = TRUE)
 ```
 
 ### Pandoc
