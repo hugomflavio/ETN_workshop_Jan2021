@@ -1,0 +1,24 @@
+Station.name,Type,Array,Section,Latitude,Longitude
+bot_ar,Hydrophone,Origin,Origin,-33.098301,151.61398
+nr2,Hydrophone,Origin,Origin,-33.08617,151.61078
+top_ar,Hydrophone,Origin,Origin,-33.092945,151.60931
+pbah_1,Hydrophone,Left1,Left,-33.078857,151.59592
+pbah_2,Hydrophone,Left1,Left,-33.084831,151.59352
+pbah_3,Hydrophone,Left2,Left,-33.101242,151.58852
+pbah_4,Hydrophone,Left2,Left,-33.108555,151.58862
+ps_1,Hydrophone,Left3,Left,-33.079067,151.57147
+ps_2,Hydrophone,Left3,Left,-33.085155,151.56805
+ps_3,Hydrophone,Left3,Left,-33.09113,151.56274
+sum_1,Hydrophone,Left4,Left,-33.121912,151.564494
+sum_2,Hydrophone,Left4,Left,-33.126435,151.566395
+ps_4,Hydrophone,Left5,Left,-33.070038,151.55072
+bon_1,Hydrophone,Left6,Left,-33.088811,151.535792
+bon_2,Hydrophone,Left6,Left,-33.09289,151.54183
+er_2,Hydrophone,Left6,Left,-33.096077,151.521809
+wang,Hydrophone,North1,North,-33.064126,151.597187
+kil,Hydrophone,North2,North,-33.03833333,151.6025
+tor,Hydrophone,North3,North,-33.00305556,151.6027778
+boltp_1,Hydrophone,North4,North,-32.99277778,151.6188889
+coalp_3,Hydrophone,North5,North,-33.03027778,151.631111
+Artificial Reef,Release,Origin,,-33.095623,151.611645
+Natural Reef,Release,Origin,,-33.08617,151.61078
